@@ -81,6 +81,3 @@ data=myModel(2.1,1.1,1,1,1,1,1)
 data
 plot(data[,1], col="red", type='o', lwd=2, ylim = c(0,2), main = "Vmax=2.1, beta=1.1")
 points(data[,2],type = 'o',lwd=2)
-
-
-#hey
